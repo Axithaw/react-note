@@ -1,0 +1,18 @@
+{
+    "tasks": [
+        {
+            "title": "Today plan",
+            "date": "8/8/2024",
+            "details":["Do homework", "Do workout ","Write code", "think like a pro"],
+            "id": 1,
+            "isComplete": false
+        },
+        {
+            "title": "Today plan",
+            "date": "8/8/2024",
+            "details":["Do homework", "Do workout ","Write code", "think like a pro"],
+            "id": 2,
+            "isComplete": false
+        }
+    ]
+}
